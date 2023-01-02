@@ -11,5 +11,4 @@ char *cap_string(char *a);
 char *leet(char *a);
 int _putchar(char c);
 
-
 #endif
